@@ -1,0 +1,8 @@
+airflow_venv/
+credentials.json
+token.json
+.env
+analytics/avg_voltage_by_day
+analytics/power_by_hour
+analytics/submetering_stats
+household_power_consumption.txt
